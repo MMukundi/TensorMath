@@ -21,6 +21,11 @@
         "__bit_reference": "cpp",
         "__split_buffer": "cpp",
         "bitset": "cpp",
-        "unordered_map": "cpp"
-    }
+        "unordered_map": "cpp",
+        "__tuple": "cpp",
+        "__string": "cpp"
+    },
+    "C_Cpp.default.includePath": [
+        "<!@(node -p \"require('node-addon-api').include\")"
+    ]
 }
